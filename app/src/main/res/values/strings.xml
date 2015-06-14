@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">CardViewDemo</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="news_one_title">Dallas police HQ attack: Suspect believed killed during standoff</string>
+    <string name="news_one_desc">and ows the dark van ramming the nose of a police car before retreating in reverse</string>
+
+    <string name="news_two_title">Hugh Jackman says coffee can change the world</string>
+    <string name="news_two_desc">(CNN)-Hugh Jackman may be finished playing Wolverine in Marvels X-Men films,but the actior still uses his superhuman powers to impact global poverty，Humanitarianism is deeply ingrained in Jackman upbringing. His father, Christopher Jackman, instilled the value of giving through his work as a volunteer accountant for charities serving the developing world.
+I suppose he was leading by example, Jackman said. Areas of poverty and extreme poverty, I learned, are not a natural state. It is man-made and solvable.</string>
+    <string name="news_three_title">Australia in charge of second Test against West Indies in Jamaica</string>
+    <string name="news_three_desc">Australia in charge of second Test against West Indies in Jamaica</string>
+    <string name="news_four_title">Sweden royal wedding</string>
+    <string name="news_four_desc">嘿~如果觉得这篇文章对您有帮助，希望你能点个赞，你可以通过订阅微信公众号：ITBird，或新浪微博：明桑Anroid 找到我，记得关注博客哦</string>
+</resources>
